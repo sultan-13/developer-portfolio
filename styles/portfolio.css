@@ -5,7 +5,7 @@
 
 }
 
-section{
+section {
     margin-top: 130px;
 }
 
@@ -168,6 +168,48 @@ main {
 
 /* resume section */
 
-.section-title-new{
+
+
+.section-title-new {
     margin-bottom: 113px;
+}
+
+.resume-content {
+    display: flex;
+    gap: 24px;
+}
+
+.resume-title {
+    font-size: 30px;
+    font-weight: 700;
+    color: #474747;
+}
+
+.resume .title {
+    font-size: 25px;
+    font-weight: 700;
+    color: #474747;
+    margin: 10px 0px 20px 0px;
+}
+
+.resume .sub-title {
+    font-size: 20px;
+    font-weight: 600;
+    color: #757575;
+    margin-bottom: 20px;
+
+}
+
+.resume .description {
+    color: #757575;
+    line-height: 28px;
+}
+
+.resume-item {
+    margin: 30px 0px;
+}
+
+.cv{
+    margin-top: 50px;
+    text-align: center;
 }
